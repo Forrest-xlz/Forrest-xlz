@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm YourName 👋
 
-<!--
-**Forrest-xlz/Forrest-xlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I’m an undergraduate student from China.
+- I’m interested in AI, computer science, Kaggle, and language learning.
+- I’m currently learning machine learning, deep learning, and competitive programming.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- Kaggle competitions
+- Machine learning projects
+- C++ / Python coding practice
+- English and Japanese learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- C++
+- PyTorch
+- scikit-learn
+- Git / GitHub
+
+## Featured Projects
+- [Project 1](https://github.com/yourname/project1) - A machine learning project.
+- [Project 2](https://github.com/yourname/project2) - A Kaggle competition solution.
+- [Project 3](https://github.com/yourname/project3) - Algorithm practice in C++.
+
+## Contact
+- GitHub: [yourname](https://github.com/yourname)
+- Email: your_email@example.com
