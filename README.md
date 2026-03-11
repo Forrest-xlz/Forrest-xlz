@@ -35,4 +35,4 @@
 
 ## Contact
 - Email: xlz1014361885@gmail.com
-- VX: 19959330731
+- WeChat: 19959330731
