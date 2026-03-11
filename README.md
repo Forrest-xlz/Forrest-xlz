@@ -1,9 +1,9 @@
 # Hi there, I'm Forrest-xlz 👋
 
 ## About Me
-- I’m an undergraduate student from China.
-- I’m interested in AI, computer science, Kaggle, and language learning.
-- I’m currently learning machine learning, deep learning, and competitive programming.
+- An undergraduate student from China.
+- Interested in AI, computer science, Kaggle, and language learning.
+- Want to be GM in kaggle someday.
 
 ## What I'm Working On
 - Kaggle competitions
@@ -14,13 +14,14 @@
 ## Tech Stack
 - Python
 - C++
+- Java
 - PyTorch
 - scikit-learn
 - Git / GitHub
 
 ## 🏆 Awards
-[Kaggle Profile](https://www.kaggle.com/forrestxlz)
-![Demo](./assets/QQ——1773220401180.png)
+<img src="assets/QQ_1773220401180.png" alt="demo" width="300"> - [Kaggle Profile](https://www.kaggle.com/forrestxlz)
+
 - 🏆 2025腾讯开悟人工智能全球公开赛【智能体算法决策-中级赛道】初赛冠军（强化学习）
 - 🏅 2025腾讯开悟人工智能全球公开赛【智能体算法决策-中级赛道】复赛第13（强化学习）
 - 🏅 2026 Kaggle CSIRO - Image2Biomass Prediction 13/3108 SOLO金牌
